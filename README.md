@@ -95,9 +95,9 @@ Startup founders and students often struggle with:
 
 ---
 
-## 📜 License
+## 📜 Outcome
 
-This project is for educational purposes only.
+The outcome of the Pitch Prophet project is derived by analyzing pitch conditions, weather, match type, and venue history to calculate a score prediction.
 
 ---
 
