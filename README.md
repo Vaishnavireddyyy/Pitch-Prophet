@@ -100,6 +100,9 @@ Startup founders and students often struggle with:
 The outcome of the Pitch Prophet project is derived by analyzing pitch conditions, weather, match type, and venue history to calculate a score prediction.
 
 ---
+## Commands used to run the code
+javac Main.java
+java Main
 
 
 
